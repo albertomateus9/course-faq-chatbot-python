@@ -1,0 +1,23 @@
+[
+  {
+    "patterns": [
+      "grade",
+      "disciplinas"
+    ],
+    "answer": "The synthetic course plan includes web, management, emerging technologies, and integrator projects."
+  },
+  {
+    "patterns": [
+      "github",
+      "portfolio"
+    ],
+    "answer": "Each student can publish safe educational artifacts as GitHub repositories."
+  },
+  {
+    "patterns": [
+      "redes",
+      "wifi"
+    ],
+    "answer": "Network labs use authorized synthetic or classroom data only."
+  }
+]
